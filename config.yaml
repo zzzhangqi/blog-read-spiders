@@ -1,0 +1,36 @@
+oschina:
+  istio: https://my.oschina.net/zhouyq/blog/5369963
+  ingress: https://my.oschina.net/zhouyq/blog/5376771
+  elk: https://my.oschina.net/zhouyq/blog/5380285
+k8s:
+  istio: https://www.kubernetes.org.cn/9749.html
+  ingress: https://www.kubernetes.org.cn/9760.html
+  elk: https://www.kubernetes.org.cn/9764.html
+51cto:
+  istio: https://blog.51cto.com/u_15395843/4805887
+  ingress: https://blog.51cto.com/rainbond/4833074
+  elk: https://blog.51cto.com/rainbond/4848636
+csdn:
+  istio: https://blog.csdn.net/Mrex326428/article/details/121955395
+  ingress: https://blog.csdn.net/Mrex326428/article/details/122088581
+  elk: https://blog.csdn.net/Mrex326428/article/details/122177617
+juejin:
+  istio: https://juejin.cn/post/7041846286823194637
+  ingress: https://juejin.cn/post/7044438078542331940
+  elk: https://juejin.cn/post/7046321122656124941
+tencent:
+  istio: https://cloud.tencent.com/developer/article/1919449
+  ingress: https://cloud.tencent.com/developer/article/1923150
+  elk: https://cloud.tencent.com/developer/article/1925833
+aliyun:
+  istio: https://developer.aliyun.com/article/831793
+  ingress: https://developer.aliyun.com/article/840832
+  elk: https://developer.aliyun.com/article/845392
+itpub:
+  istio: http://blog.itpub.net/70008902/viewspace-2847942
+  ingress: http://blog.itpub.net/70008902/viewspace-2848910
+  elk: http://blog.itpub.net/70008902/viewspace-2849588
+cnblog:
+  istio: https://www.cnblogs.com/rainbond/p/15693661.html
+  ingress: https://www.cnblogs.com/rainbond/p/15720155.html
+  elk: https://www.cnblogs.com/rainbond/p/15737348.html
