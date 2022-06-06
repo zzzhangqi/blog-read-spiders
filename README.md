@@ -33,3 +33,8 @@ python main.py
 ### 配置说明
 
 `config.yaml` 配置博客链接地址
+
+### 参考指南
+
+* scrapy文档：https://docs.scrapy.org/en/latest/intro/overview.html
+* scrapy中文教程：https://scrapy-cookbook.readthedocs.io/zh_CN/latest/scrapy-01.html
